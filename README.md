@@ -13,6 +13,9 @@ The Digital Agent is an AI-powered assistant designed to simplify everyday tasks
 #Features
 
 =>Task Automation: Automatically handle reminders, events, and tasks.
+
 =>Intelligent Responses: Get quick and accurate answers to your queries.
+
 =>Integration with Services: Connect with external platforms such as calendars and social apps.
+
 =>Learning Capabilities: Adapts to your preferences and behavior over time for a personalized experience.
